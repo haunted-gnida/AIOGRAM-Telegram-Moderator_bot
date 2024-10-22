@@ -1,6 +1,6 @@
 # TelegramW2H_ModeratorBot
 <p align="center">
-   <img src="https://img.shields.io/badge/Pythov-v3.10-blue" alt="Python Version">
+   <img src="https://img.shields.io/badge/Python-v3.10-blue" alt="Python Version">
 </p>
 
 ## О проекте
